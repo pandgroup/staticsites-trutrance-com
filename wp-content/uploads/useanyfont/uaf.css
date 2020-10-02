@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'bauhaus';
+					src: url('/wp-content/uploads/useanyfont/791Bauhaus.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/791Bauhaus.woff') format('woff');
+					font-display: auto;
+				}
+
+				.bauhaus{font-family: 'bauhaus' !important;}
+
+						h1{
+					font-family: 'bauhaus' !important;
+				}
+		
